@@ -7,8 +7,8 @@ you can now do it from the comfort of your own home!
 
 ## What do I need?
 
-- [Python 2.7](http://example.com/python)
-- [Eventlet](http://example.com/eventlet)
+- [Python 2.7](http://www.python.org/download/releases/2.7.2/)
+- [Eventlet](http://eventlet.net/)
 - A web browser that supports WebGL, like Chrome or Safari
 
 ## Don't I need a specific operating system?
